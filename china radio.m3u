@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 ,经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 ,文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 ,中华之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 ,CNR娱乐广播
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 ,黑龙江都市女性广播
+http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 ,黑龙江音乐广播
+http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 ,江苏音乐广播
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 ,安徽音乐广播
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 ,安徽小说评书广播
+http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 ,广东音乐之声
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 ,广东文体广播
+http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+#EXTINF:-1 ,深圳音乐广播飞扬971
+http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 ,广西音乐广播 FM95.0
+http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+#EXTINF:-1 ,海南音乐广播
+http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 ,重庆文艺广播
+http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+#EXTINF:-1 ,重庆音乐广播
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 ,四川文艺广播
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 ,四川岷江音乐频率
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 ,贵州音乐广播
+http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+#EXTINF:-1 ,贵州故事广播
+http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 ,贵州旅游广播
+http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 ,云南音乐广播
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 ,甘肃黄河之声
+http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
